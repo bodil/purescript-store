@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "purescript-prelude": "^2.1.0",
-    "purescript-foreign-generic": "^2.0.0",
+    "purescript-foreign-generic": "^3.0.0",
     "purescript-refs": "^2.0.0"
   },
   "devDependencies": {
